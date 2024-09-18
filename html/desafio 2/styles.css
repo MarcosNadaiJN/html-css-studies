@@ -31,7 +31,93 @@ h1 {
   font-size: 16px;
 }
 
-.link-header-principal {
+.button {
   font-size: 24px;
+  font-weight: 700;
   text-decoration: none;
+}
+
+/* Conteudos Gratuitos */
+
+h2.conteudos-gratuitos {
+  font-size: 35px;
+  font-weight: 400;
+}
+
+h2 span.roxo {
+  font-size: 35px;
+  font-weight: 600;
+  color: #7a40be;
+}
+
+h3.titulo-conteudos {
+  font-size: 23px;
+  font-weight: 700;
+}
+
+img.icone-conteudo {
+  height: 50px;
+}
+
+ul.links-redes-sociais a {
+  text-decoration: none;
+  font-size: 19px;
+  font-weight: 400;
+}
+
+ul a li {
+  list-style-type: none;
+}
+
+ul.icones-redes-sociais a li img {
+  height: 18px;
+}
+
+/* Diferenciais */
+
+.diferenciais {
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.semi-bold {
+  font-weight: 600;
+}
+
+p.complemento-titulo {
+  font-size: 23px;
+  text-align: left;
+}
+
+h3.sub-titulo {
+  color: #005e88;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+p.sub-texto {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+h3.empresas {
+  font-size: 35px;
+  font-weight: 400;
+}
+
+h3.empresas a {
+  font-size: 35px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #005e88;
+}
+
+h2.falam {
+  font-size: 35px;
+  font-weight: 400;
+}
+
+h2.falam span {
+  font-weight: 700;
+  font-size: 35px;
 }
